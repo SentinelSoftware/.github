@@ -15,5 +15,7 @@
 - [ ] I have updated nuget packages to the latest possible version
 - [ ] I have checked that no warnings are generated from my newly added code
 - [ ] I have built the solution and run all automated tests
+- [ ] The changes are backwards compatible
+- [ ] The code help towards fulfilling or fulfills the acceptance criteria
 
 <!-- Do you have any suggestions about this PR template? Edit it here: https://github.com/SentinelSoftware/.github/edit/main/pull_request_template.md -->
